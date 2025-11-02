@@ -1,4 +1,5 @@
-# Hi there! 👾 I'm Siddhant Pawbake
+# Hi there! 👾 
+I'm Siddhant Pawbake
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Software+Engineer;Java+Developer;Passionate+about+DSA;Fullstack+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
