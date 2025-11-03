@@ -91,13 +91,6 @@ A quick glance at my GitHub activity and contributions:
 ### 📅 Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/siddhantpawbake" alt="Contribution Calendar" width="100%"/>
 
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!-- TODO: Set up GitHub Actions to auto-update this section with your latest activity -->
-- ⚙️ Contributed to [Repository Name](https://github.com/siddhantpawbake/example-repo) (2 days ago)
-- 🌟 Starred [Awesome Project](https://github.com/siddhantpawbake/another-example-repo) (3 days ago)
-<!--END_SECTION:activity-->
-
 ---
 
 ## 🚀 Featured Projects
