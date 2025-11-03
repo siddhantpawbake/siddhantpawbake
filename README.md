@@ -92,11 +92,19 @@ A quick glance at my GitHub activity and contributions:
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/siddhantpawbake/BlogWebsite">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=siddhantpawbake&repo=BlogWebsite&theme=tokyonight&hide_border=true&border_radius=10" />
+    <img width="45%" 
+         src="https://github-readme-stats.vercel.app/api/pin/?username=siddhantpawbake&repo=BlogWebsite&theme=tokyonight&hide_border=true&border_radius=12&show_icons=true" 
+         alt="Blog Website Repo Card" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/siddhantpawbake/CurrencyConverter">
+    <img width="45%" 
+         src="https://github-readme-stats.vercel.app/api/pin/?username=siddhantpawbake&repo=CurrencyConverter&theme=tokyonight&hide_border=true&border_radius=12&show_icons=true" 
+         alt="Currency Converter Repo Card" />
   </a>
 </p>
 
