@@ -63,50 +63,34 @@ My toolkit is continuously expanding, but here are some of the technologies I fr
   <img src="https://img.shields.io/badge/Operating%20Systems-2E8B57?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Computer%20Networks-8B0000?style=for-the-badge" />
 </p>
----
-
-## 📊 GitHub Dashboard
-
-A quick glance at my GitHub activity and contributions:
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siddhantpawbake&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhantpawbake&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siddhantpawbake&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
-</p>
-
-### 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantpawbake&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-
-### 🔥 Streak Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantpawbake&theme=tokyonight&hide_border=true"/>
-</p>
-
-### 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/siddhantpawbake" alt="Contribution Calendar" width="100%"/>
 
 ---
 
 ### 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/siddhantpawbake/BlogWebsite">
-    <img width="45%" 
-         src="https://github-readme-stats.vercel.app/api/pin/?username=siddhantpawbake&repo=BlogWebsite&theme=tokyonight&hide_border=true&border_radius=12&show_icons=true" 
-         alt="Blog Website Repo Card" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/siddhantpawbake/CurrencyConverter">
-    <img width="45%" 
-         src="https://github-readme-stats.vercel.app/api/pin/?username=siddhantpawbake&repo=CurrencyConverter&theme=tokyonight&hide_border=true&border_radius=12&show_icons=true" 
-         alt="Currency Converter Repo Card" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/siddhantpawbake/BlogWebsite">
+        <img
+          src="https://opengraph.githubassets.com/1/siddhantpawbake/BlogWebsite"
+          width="100%"
+          alt="Blog Website Repository Card"
+        />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/siddhantpawbake/CurrencyConverter">
+        <img
+          src="https://opengraph.githubassets.com/1/siddhantpawbake/CurrencyConverter"
+          width="100%"
+          alt="Currency Converter Repository Card"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
